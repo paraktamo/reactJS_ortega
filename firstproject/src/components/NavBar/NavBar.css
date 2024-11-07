@@ -1,0 +1,17 @@
+.navbar-custom {
+    background-color: #6e05b9; /* Violeta oscuro */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: #FFFFFF; /* Blanco */
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #00FF00; /* Verde */
+  }
+  
+  .navbar-custom .nav-item.active .nav-link {
+    color: #00FF00; /* Verde */
+    font-weight: bold;
+  }
